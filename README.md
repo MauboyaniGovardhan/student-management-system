@@ -25,9 +25,3 @@ CREATE TABLE studentsdata (
   grade VARCHAR(10)
 );
 
-
-## ▶️ How to Run
-1. Import project in Eclipse or any Java IDE.
-2. Make sure MySQL server is running and database is created.
-3. Update the database credentials (`URL`, `USER`, `PASSWORD`) in the Java program.
-4. Run `StudentManagementSystem.java` from your IDE.
